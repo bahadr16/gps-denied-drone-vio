@@ -22,6 +22,8 @@ Gazebo (Camera + IMU)
   Gazebo Motors
 ```
 
+![Architecture Sketch](docs/mimari.png)
+
 The system consists of five layers:
 
 1. **Gazebo** — Drone model with virtual camera and IMU sensors. Runs the physics engine.
